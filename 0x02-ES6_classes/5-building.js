@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 export default class Building {
   constructor(sqft) {
     this._sqft = sqft;
